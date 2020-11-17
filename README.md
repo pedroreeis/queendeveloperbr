@@ -1,4 +1,4 @@
-<h1 align=center>:large_blue_diamond: Pedrão Reis :large_blue_diamond:</h1>
+<h1 align=center> Pedrão Reis </h1>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=queendeveloperbr" alt="akshit-wtf" alt="Profile Views" />
