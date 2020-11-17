@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=queendeveloperbr" alt="akshit-wtf" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/queendeveloperbr?label=Follow&style=social" alt="github followers" /><br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=queendeveloperbr&show_icons=true&custom_title=Matheus%20Github%20Stats&theme=tokyonight" alt="Pedrao Statistics." />
+    <img src="https://github-readme-stats.vercel.app/api?username=queendeveloperbr&show_icons=true&custom_title=QueeN%20Github%20Stats&theme=tokyonight" alt="Pedrao Statistics." />
     
 </p>
 <hr>
