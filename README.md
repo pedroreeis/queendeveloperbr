@@ -27,3 +27,4 @@ Tenho diversos repositorios aqui na plataforma, de uma olhada em qualquer um!
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
 ![React.js](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
+![Java](https://img.shields.io/badge/-JAVA-000000?style=for-the-badge&logo=JAVA)
