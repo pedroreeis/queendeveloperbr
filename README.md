@@ -1,5 +1,4 @@
 <h1 align=center> Pedro Reis </h1>
-<h2><strong>Conheça meu perfil no github.</strong></h2>
 
 <p>
     <img src="https://komarev.com/ghpvc/?username=queendeveloperbr" alt="akshit-wtf" alt="Profile Views" />
