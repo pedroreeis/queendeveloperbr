@@ -3,15 +3,6 @@
 Eu faço projetos privados e alguns freelancers, então meus repositórios são bem diversos.
 
 Skills: REACT / JS / HTML / CSS / JAVA / DATABASE'S
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![MONGO](https://img.shields.io/badge/-mongo%20db-000000?style=for-the-badge&logo=mongodb)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
-![React.js](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
-![Java](https://img.shields.io/badge/-JAVA-000000?style=for-the-badge&logo=JAVA)
 
 - 🔭 Eu atualmente trabalho como freelancer
 - 🌱 Eu atualmente estou estudando JAVA
@@ -33,3 +24,13 @@ Skills: REACT / JS / HTML / CSS / JAVA / DATABASE'S
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=queendeveloperbr&theme=dark)  
 
 ![Profile views](https://gpvc.arturio.dev/queendeveloperbr)  
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
+![MONGO](https://img.shields.io/badge/-mongo%20db-000000?style=for-the-badge&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)
+![React.js](https://img.shields.io/badge/-react-000000?style=for-the-badge&logo=react)
+![Java](https://img.shields.io/badge/-JAVA-000000?style=for-the-badge&logo=JAVA)
