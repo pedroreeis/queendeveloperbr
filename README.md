@@ -2,7 +2,6 @@
 
 Apenas um freelancer.
 
-https://img.shields.io/badge/Discord-DoutorWaze%238659-ff69b4
 [![Discord Badge](https://img.shields.io/badge/Discord-DoutorWaze%238659-ff69b4)](DoutorWaze#8659) 
 [![Gmail Badge](https://img.shields.io/badge/-pedroandradereis2007@gmail.com-ff69b4?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroandradereis2007@gmail.com)](mailto:pedroandradereis2007@gmail.com)
 [![Github Follow](https://img.shields.io/github/followers/queendeveloperbr?style=social)](https://github.com/queendeveloperbr)
